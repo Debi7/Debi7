@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working on open source project **Online Library App**
 
-- 📫 How to reach me **https://t.me/irina_norton**
+- 📫 How to reach me sum.norton@yandex.ru
+
 
 <h3 align="left">🔧 Technologies & Tools</h3>
 <p align="left"> 
