@@ -5,8 +5,6 @@
 
 - 🌱 My EDC stack: JS React TS Redux
 
-- 📫 How to reach me sum.norton@yandex.ru
-
 
 <h3 align="left">🔧 Technologies & Tools</h3>
 <p align="left"> 
