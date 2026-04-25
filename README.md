@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on open source project **Online Library App**
 
-- 📫 How to reach me **https://t.me/irina_norton**
+- 📫 How to reach me **sum.norton@yandex.ru**
 
 <h3 style="align: left">🔧 Technologies & Tools</h3>
 <div style="display: flex; justify-content: center; gap: 9px;"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
