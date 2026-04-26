@@ -7,7 +7,7 @@
 
 - 🌱 My EDC stack: JS React TS Redux
 - 🔭 I’m currently working on open source project **Online Library App**
-- 📫 How to reach me **sum.norton@yandex.ru**
+- 📫 How to reach me sum.norton@yandex.ru
 
 ### 🔧 Technologies & Tools
 
