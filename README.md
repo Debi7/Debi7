@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div text-align: center;>
 <h1>👋 Hi, I'm Irina</h1>
 <h3>A passionate frontend developer from Russia</h3>
 </div>
